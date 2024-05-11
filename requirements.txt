@@ -1,0 +1,5 @@
+flask
+uuid
+pyinstaller
+eventlet
+venv
